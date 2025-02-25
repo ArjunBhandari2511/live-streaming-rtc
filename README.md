@@ -1,10 +1,10 @@
 For the Backend 
-cd backend
-Replace your MongoURI
-npm install 
-node server.js
+cd backend \n
+Replace your MongoURI \n
+npm install \n
+node server.js \n
 
 For the frontend
-cd frontend
-npm install
-npm run dev
+cd frontend \n
+npm install \n
+npm run dev \n
